@@ -38,3 +38,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+  
+## Thank you for visiting my profile!
+
+Thank you for taking the time to read about me and my tech stack. If you have any questions or would like to learn more about my experience, please don't hesitate to reach out. You can connect with me on any of my social media profiles listed above, and I'm always happy to chat about all things tech and beyond!
